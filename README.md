@@ -1,6 +1,8 @@
 # Banner
 Android auto scroll viewpager
 
+![image](https://github.com/zuohq/Banner/blob/master/banner.gif)
+
 # Usage
 
 java code
